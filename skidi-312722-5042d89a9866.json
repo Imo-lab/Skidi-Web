@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "skidi-312722",
+  "private_key_id": "5042d89a9866a0e8d84dd137bf49f6c26d07f421",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCdtCd8DhBTSzwC\nKBkmZjSEFl6TqEQ3HnlO9CPq07CtrkrbQZimcliX5x3gksnFV9gr+a3GDUUMUrIt\nW6hnc/sq8onL/JtGgcNuLwihDU40AynvUCDh2913kYD8o8/fc/ZOwreBewC8YToe\nd5W4IWE4uUxDP63JdHUJAO3TbdytbOhrCWWa3u4tNBcwQq8maTbjM+oPVUuj5etZ\n/aKUSulvdMMfuWsxq/3bMVb76xvt9BnnPU2MrNl+4JmmKUa3gFV0LyT/cjGDXItV\njJ+ZT/tluz9QMxHsUQ6kFD9IlGgfDC4ERXpRedjS27oWBLyrHHEvLQxBIHpiEXRN\njzK9X8EfAgMBAAECggEAFMPzjQi3Cpi1+py4Dw/XK2tcobm+3bkkBQrtrc6ZDY2N\nKsi85nHZC4txqi/55IPYIZY7VQBLTr+W2ZUfnBuv/2w3S8Zj1clhZ+FGlBpR6VRf\nUbUt1z+hrkxY/Ss+xHAbByzph+Gf664rvnZFnxy6FgOEMLiyU/wDKx/VsQjezXD8\nDHVPuf6y/xPBxlJiUXKTCGlnJRYXr6CM3Wpxs11yuuuMak7F2gdJ7hDsMuEr4iiW\nvk6X5lOFM0fRKWCjVlRkmMDh2jXQcWG/QBtn9uiwrSNBRkr8QgFun0l9HSqjfWaw\n9wGsZOjimiRkns54sET8ZwSx5Cw2IlQY7zsN89ra9QKBgQDeQGl3db+7GHHHqGpi\nZyBqhkM8eKc5ltDxj3xdJ6Ev2TfiPRYk0lPR83k+FTMidAq5TPLduF0336cQe4bB\n3uvbwx5cJ50cbpgX178BMiKZrZ/5ENOpQa1c+Mhfd1WfoWlZ+F6QiBL/wzL1IO1Y\nZGsnPQuJfYIWmsZ7iTJan22tGwKBgQC1ppJ04KBCpbpKXdGbJM2zfSEbClqv4X78\nfdrBF23Xicyz22ibNRTcfpLQgg1Qm/+R+C//otiNcLz03K3rRIqZT5l+5g1WubfA\nE+RexpAMGCLqebANsm+VHAICeiOqAhK3Zf4Zk19MMV/bsLHFpYdOizuLjJIsWNNp\nR3w9acMQTQKBgQCFgL2Zo6J7OZDHNRRKbdYcBvCGd5dD0aNLJzy2HGMHgfy+qqEN\nl0YAXLdcopFnxbrXWjCdHOzp7i/Fh94HwOd+x/MJukX22TwFPnSevEXqeFAa5Y+v\nISOJMGv0ZJOLYwMMp1Puj76R4ehPNOs9aHyxQksW2Mx21Zwaguw7YX8ZNwKBgAjK\nuyP1C0yugMnAqLh9m4coc0W/xovkuiS2YrQd0i8weDvsTq/UbeIOLkTxRnu0UTZb\ncNdKpniSEFM5qyFL+/lXpPJDaDneW0psrAz6R1aOhIIcyaygCk6JQH+mMbu0xfsi\ncJ4ESASED0Ou1avfSyE+E++5KgoDcpgR4a2HRO2xAoGBAJ3llceKfVX56pj12o08\nVvHhELN67QiZIDH7tfYlRT7IcqUnMBGAZsEQ3q5DstRmG00/jXSpWvZVIf+jXwcj\n5c/G18R0H4VQsgvlWOIh5Lgw9T6pVbMrlWA6UylABNejE6BHlENt++XcCT6LmuS8\n9Ee08B/ZvU+2kfTJPWN+MCyZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "model-skin-disease@skidi-312722.iam.gserviceaccount.com",
+  "client_id": "106869002547093213631",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/model-skin-disease%40skidi-312722.iam.gserviceaccount.com"
+}
